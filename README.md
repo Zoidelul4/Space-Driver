@@ -1,4 +1,4 @@
-# 🛸 Projeto-Mobile - Space-Invaders
+8# 🛸 Projeto-Mobile - Space-Invaders
 Este projeto é uma recriação do clássico jogo Space Invaders, desenvolvido especificamente para dispositivos móveis utilizando o GameMaker Studio. O jogo mantém a essência do original enquanto adiciona controles otimizados para touchscreen e alguns recursos modernos.
 
 # 👨‍🏫 Professor responsável
@@ -22,7 +22,7 @@ Jogadores casuais e fãs de jogos retrô que desejam uma experiência nostálgic
 
 Sistema de movimento: Controles touch para mover a nave
 
-Sistema de disparo: Botão de tiro intuitivo
+Sistema de disparo: Disparo automático
 
 Geração de inimigos: Ondas progressivas de aliens
 
