@@ -28,9 +28,11 @@ Geração de inimigos: Ondas progressivas de aliens
 
 Sistema de pontuação: Contagem de pontos por inimigos derrotados
 
-Menu de pause: Opção para pausar o jogo durante a partida
+Menu de pause: Opção para pausar o jogo durante a partida, funcionando caso salve e saia do jogo tambem 
 
 Seleção de dificuldade: Diferentes níveis de desafio
+
+Sistema de Ranking: Seu Nome e score gravado no rank.
 
 # ☑️ Requisitos não funcionais
 
@@ -110,7 +112,7 @@ Desenvolvimento: GameMaker Studio
 
 Programação: GML (GameMaker Language)
 
-Arte: Aseprite (pixel art)
+Arte: Piskel Art (Pixelart)
 
 Áudio: Áudios encontrados na internet (efeitos sonoros)
 
