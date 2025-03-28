@@ -53,7 +53,7 @@ Controles: Responsivos e otizimados
 ![image](https://github.com/user-attachments/assets/da9f5a58-c9c3-44c5-aee6-76111e0e2476)
 
 # 📱 Mockup do Jogo
-(Inserir imagens ou links para protótipos de tela)
+
 
 # 📊 Estrutura do Projeto
 
@@ -95,7 +95,6 @@ obj_gameController: Controla lógica do jogo
 Variáveis: score, level, difficulty
 
 # 🧍 Diagramas UML
-(Inserir diagramas específicos para seu jogo)
 
 # 🛢️ Requisitos Técnicos
 
