@@ -99,6 +99,14 @@ Variáveis: score, level, difficulty
 
 # 🧍 Diagramas UML
 
+- Diagrama de Sequencia
+  
+![Image](https://github.com/user-attachments/assets/da382ba4-e1ad-47d0-93d7-6e4ea5fabd29)
+
+- Diagrama de Caso de Uso
+
+
+
 # 🛢️ Requisitos Técnicos
 
 Resolução: 1080x1920 (adaptável)
