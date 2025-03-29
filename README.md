@@ -105,6 +105,11 @@ Variáveis: score, level, difficulty
 
 - Diagrama de Caso de Uso
 
+![Image](https://github.com/user-attachments/assets/4dd8ecc8-1e92-4a3b-b73a-48236731e7ef)
+
+- Diagrama de Componentes
+
+
 
 
 # 🛢️ Requisitos Técnicos
