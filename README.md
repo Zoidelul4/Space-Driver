@@ -109,8 +109,7 @@ Variáveis: score, level, difficulty
 
 - Diagrama de Componentes
 
-
-
+![Image](https://github.com/user-attachments/assets/e3bc00b0-1ef8-4bfd-b26b-6cebe2e0effa)
 
 # 🛢️ Requisitos Técnicos
 
