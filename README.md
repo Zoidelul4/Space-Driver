@@ -111,6 +111,14 @@ Variáveis: score, level, difficulty
 
 ![Image](https://github.com/user-attachments/assets/e3bc00b0-1ef8-4bfd-b26b-6cebe2e0effa)
 
+- Diagrama de Atividade
+
+![Image](https://github.com/user-attachments/assets/b6704cb5-f0ba-4207-b490-f2a046cf0519)
+
+- Diagrama de Classes
+
+![Image](https://github.com/user-attachments/assets/331ca304-2edd-463c-90c2-03a77e086e32)
+
 # 🛢️ Requisitos Técnicos
 
 Resolução: 1080x1920 (adaptável)
